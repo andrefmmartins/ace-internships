@@ -17,7 +17,7 @@ In less than a year of managing our internship program, we've welcomed over 85 t
 
 Our talent pool spans more than 30 universities across Europe. With about 55% of our interns coming from abroad - including Italy, Poland, Sweden, Denmark, France, Croatia, Austria, Spain, and The Netherlands - we're building truly diverse teams. Our strongest intake has been in Finance, Software Engineering, and Product Management, reflecting our commitment to comprehensive tech excellence.
 
-**Beyond the Paper Qualifications**
+**Beyond the Paper Qualifications:**
 
 Let me be clear: While prestigious universities are great, they don't define your potential. Your worth isn't measured by a certificate but by your passion, adaptability, and drive. We've seen extraordinary talent emerge from diverse educational backgrounds, proving that potential knows no boundaries.
 
@@ -110,3 +110,8 @@ Looking Ahead: Remember, today's job market is competitive, but that shouldn't d
 1.	Accept rejection as a stepping stone
 2.	Proactively seek feedback
 3.	Build meaningful professional connections
+
+**The Path Forward**
+
+Whether your journey leads you to Jumia or elsewhere, remember that success isn't just about where you start - it's about your willingness to learn, adapt, and persist. Your career path is unique, and that's exactly as it should be.
+The market is competitive, and YOU're worth it.
