@@ -72,6 +72,33 @@ Let me be clear: While prestigious universities are great, they don't define you
 
 ✅	Build resilience through self-awareness
 
+## Platforms to search for internships and/or junior positions in Europe:
+-	[JobTeaser](https://www.jobteaser.com/en ) (Graduateland is now part of JobTeaser)
+-	[Erasmusintern](https://erasmusintern.org/) 
+-	[Glassdoor](https://www.glassdoor.com/Students/index.htm)  
+-	[Stepstone](https://www.stepstone.be/en) 
+
+On LinkedIn:
+
+Create filters so you don't have to manually check frequently which features are becoming available
+Quick Guide: Setting Up LinkedIn Job Alerts
+
+Follow these simple steps to never miss relevant opportunities:
+
+1.	Head to LinkedIn's top search bar
+   
+3.	Click on 'Jobs'
+   
+5.	Enter your target role in 'Title, skill or company'
+   
+7.	Add your preferred location in 'City, state, or zip code'
+   
+9.	Hit Enter
+    
+11.	Toggle 'Alert on'
+    
+Pro Tip: LinkedIn will now notify you when new positions matching your criteria are posted. Stay ahead of the competition by being one of the first to apply!
+
 Looking Ahead: Remember, today's job market is competitive, but that shouldn't diminish your worth. Your unique perspective, drive, and potential are valuable assets. While there's no universal formula for success, these insights from my journey might help guide yours.
 
 # Three Core Principles:
