@@ -113,5 +113,4 @@ Looking Ahead: Remember, today's job market is competitive, but that shouldn't d
 
 **The Path Forward**
 
-Whether your journey leads you to Jumia or elsewhere, remember that success isn't just about where you start - it's about your willingness to learn, adapt, and persist. Your career path is unique, and that's exactly as it should be.
-The market is competitive, and YOU're worth it.
+No matter which direction your career takes you, remember this: Success isn't measured by your starting point - it's defined by your willingness to learn, adapt, and persist. Your professional journey is uniquely yours, and that's exactly how it should be. Yes, the market is competitive, but never forget - YOU are worth it.
