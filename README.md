@@ -27,6 +27,73 @@ Let me be clear: While prestigious universities are great, they don't define you
 
 ✅	**Craft a concise, impactful one-page CV:** Kind reminder - when you're starting your career or making a career switch, keep it to one page. Trust me, that's plenty of space to showcase your potential. Here's my go-to advice: 'Keep your CV clean and concise, but let your LinkedIn tell the full story.' And yes - if you include your LinkedIn on your CV, I'll definitely check it out! Make sure both platforms work together to present your best professional self. Think of your CV as the highlight reel and LinkedIn as the behind-the-scenes documentary. Both matter, but they serve different purposes in telling your professional story.
 
+## Which CV template to use – One of the biggest myths
+
+Let's address a common misconception in job applications: the 'perfect' CV template. Here's the truth – it doesn’t matter. Really. It's not about the template, it's about the content and clarity of the document. The template itself isn't what makes or breaks your application.
+
+What genuinely matters is how you organize and present your information. Your CV needs to be clear, logical, and easy to understand. I always advise – keep it simple, short. For internships and junior roles, I typically recommend keeping it to one page. However, let's be realistic: a two-page CV won't automatically disqualify you. The quality and relevance of your content matter more than strict adherence to page limits.
+
+Here's a key reality check: Recruiters typically spend mere seconds on initial CV screenings. This isn't a myth - it's reality. Truly. Be aware of it. Make those seconds count by ensuring your information is clear, concise, and well-organized. Focus on placing relevant information where it's easily spotted, using clear section headings, and maintaining consistent formatting throughout.
+
+***What colours should I use?***
+
+When it comes to CV colours, I believe that simplicity wins. Stick to neutral tones, with white being always a reliable choice. use Canva - it's free, professional, and easily editable. While the platform offers many creative options, remember that readability should be your priority.
+
+***How to organize it?***
+
+_For Entry-Level Positions:_
+
+Keep it very simple: Start with your academic path at the top - this is your strongest asset when entering the job market. Follow with any relevant experience, including part-time work, internships, or volunteering activities. This structure highlights your educational foundation while showcasing your practical experience.
+
+_For Junior Roles and Above:_
+
+Reverse the order - lead with professional experience, followed by academic studies. Your work history becomes your primary selling point as you progress in your career.
+
+The key is maintaining a clear, logical flow that prioritizes your most relevant qualifications for the position. Remember: your CV should tell your professional story in the most impactful way possible.
+Should I include part-time jobs?
+
+_Part-Time Work:_
+
+Absolutely include these experiences! Part-time roles develop valuable transferable skills applicable across all industries, from HR to Software Engineering. These positions demonstrate work ethic, time management, and practical experience - all valuable attributes for employers.
+
+_Volunteering Experience:_
+
+Yes! Same response as the one above. These experiences showcase initiative, social responsibility, and personal values. Speaking personally, I still include my 2019 volunteering experience in Egypt on my CV despite four years of professional experience. It's not just about what you did - it's about who you are and what you value.
+
+Remember: Every experience shapes your professional identity. Part-time jobs and volunteering demonstrate soft skills, character, and real-world experience that technical skills alone cannot convey.
+
+## What about a motivation letter?
+
+No – that’s my only answer. Skip them - unless specifically requested.
+
+But let's try to break this topic down a bit.
+
+Recruitment isn't an exact science, and opinions vary among professionals. However, from extensive interaction with tech industry recruiters and personal experience, motivation letters rarely impact application success.
+
+_Where to Focus Instead:_
+
+Invest your time in crafting and maintaining an outstanding LinkedIn profile. This professional presence offers far more value than customized motivation letters for each application.
+
+_Time Management Perspective:_
+
+As a recruiter, I prioritize reviewing CVs and LinkedIn profiles over motivation letters. A well-structured CV combined with a comprehensive LinkedIn presence tells me what I need to know about a candidate's potential fit.
+
+_Personal Experience:_
+
+While I once attached motivation letters to applications myself, experience has shown that this practice adds little value. Your CV should communicate key information effectively, and an engaging LinkedIn profile can fill any gaps.
+
+In short, only provide a motivation letter when explicitly required in the application process.
+### What happens if I follow these suggestions, and the ATS rejects my CV?
+
+That’s another myth. It doesn’t happen. ATS (Applicant Tracking Systems) don't automatically reject applications. They're exactly what the name suggests - tracking systems. Every application is reviewed by a human.
+
+Any application always needs to go through a person. ATSs (Application Tracking Systems) do NOT reject applications, they are tracking systems.
+
+Pro tip: when you are applying to companies, build a simple Excel file where you track your applications, if you received an answer from them (even if just a standard one, it’s still a response), and which CV did you sue (in case you have two and want to test both out of curiosity). This way, you’ll avoid taking the risk of applying for the same company (at least in a short period of time). Tracking is gold.
+
+Pro tip: Track your applications in a spreadsheet (Excel), noting companies, responses, and CV versions used. This simple practice helps manage your job search effectively and professionally, and you will avoid running the risk of applying to the same company (at least in a short space of time). Tracking is gold.
+
+
 ✅	**Develop strong English communication skills:** Let's talk about the game-changer in your career journey - English proficiency. Want to work for international companies? English fluency isn't just a nice-to-have - it's essential. Speaking from personal experience, investing in a 6-month intensive English course can transform your career prospects. I did exactly this before applying to Dutch universities, aiming to ace the IELTS exam, and it made all the difference. Pro tip: Intensive language courses are worth every minute and penny. They fast-track your learning and boost your confidence in professional settings. Think of it as investing in your career passport - it opens doors worldwide.
 
 ✅ **Research thoroughly before interviews:** Here's a crucial tip that many candidates overlook - do your homework before that screening call/first interview! When a company reaches out, and you're moving to the first round, take time to research them properly. Yes, this sounds basic, but you'd be surprised how many skip this step. Trust me - it makes a huge difference, and you control whether that difference is positive or negative. Quick reality check: Walking into an interview knowing only the company name versus understanding their mission, recent projects, and market position? That's the difference between showing genuine interest and just going through the motions. Remember: In those first conversations, your level of preparation speaks volumes about your motivation. It's one of the easiest ways to stand out - either for the right or wrong reasons. Make it count!
