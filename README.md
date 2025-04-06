@@ -87,8 +87,6 @@ In short, only provide a motivation letter when explicitly required in the appli
 
 That’s another myth. It doesn’t happen. ATS (Applicant Tracking Systems) don't automatically reject applications. They're exactly what the name suggests - tracking systems. Every application is reviewed by a human.
 
-Any application always needs to go through a person. ATSs (Application Tracking Systems) do NOT reject applications, they are tracking systems.
-
 Pro tip: Track your applications in a spreadsheet (Excel), noting companies, responses, and CV versions used. This simple practice helps manage your job search effectively and professionally, and you will avoid running the risk of applying to the same company (at least in a short space of time). Tracking is gold.
 
 
