@@ -50,7 +50,8 @@ _For Junior Roles and Above:_
 Reverse the order - lead with professional experience, followed by academic studies. Your work history becomes your primary selling point as you progress in your career.
 
 The key is maintaining a clear, logical flow that prioritizes your most relevant qualifications for the position. Remember: your CV should tell your professional story in the most impactful way possible.
-Should I include part-time jobs?
+
+***Should I include part-time jobs?***
 
 _Part-Time Work:_
 
