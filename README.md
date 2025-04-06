@@ -2,7 +2,7 @@ _Created on: 04 April 2025 ---- Last Update on: 06 April 2025_
 
 ## What should you pay attention to when looking for an internship?
 
-# From Intern to Tech Talent Acquisition: My 4-Year Journey at Jumia: A Personal Reflection on Growth and Opportunity
+# From Intern to Tech Talent Acquisition: My 4-Year Journey at [Jumia](https://group.jumia.com/): A Personal Reflection on Growth and Opportunity
 As I approach my fourth year at Jumia, Africa's leading e-commerce platform, I want to share insights from both sides of the recruitment table - from starting as an intern to now leading tech talent acquisition across our tech hubs in Portugal and Egypt.
 
 **Our Internship Culture:**
@@ -37,7 +37,7 @@ Here's a key reality check: Recruiters typically spend mere seconds on initial C
 
 ***What colours should I use?***
 
-When it comes to CV colours, I believe that simplicity wins. Stick to neutral tones, with white being always a reliable choice. use Canva - it's free, professional, and easily editable. While the platform offers many creative options, remember that readability should be your priority.
+When it comes to CV colours, I believe that simplicity wins. Stick to neutral tones, with white being always a reliable choice. use [Canva](https://www.canva.com/) - it's free, professional, and easily editable. While the platform offers many creative options, remember that readability should be your priority.
 
 ***How to organize it?***
 
