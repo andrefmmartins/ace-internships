@@ -1,4 +1,4 @@
-_Created on: 04 April 2025 ---- Last Update on: 04 April 2025_
+_Created on: 04 April 2025 ---- Last Update on: 06 April 2025_
 
 ## What should you pay attention to when looking for an internship?
 
@@ -88,8 +88,6 @@ In short, only provide a motivation letter when explicitly required in the appli
 That’s another myth. It doesn’t happen. ATS (Applicant Tracking Systems) don't automatically reject applications. They're exactly what the name suggests - tracking systems. Every application is reviewed by a human.
 
 Any application always needs to go through a person. ATSs (Application Tracking Systems) do NOT reject applications, they are tracking systems.
-
-Pro tip: when you are applying to companies, build a simple Excel file where you track your applications, if you received an answer from them (even if just a standard one, it’s still a response), and which CV did you sue (in case you have two and want to test both out of curiosity). This way, you’ll avoid taking the risk of applying for the same company (at least in a short period of time). Tracking is gold.
 
 Pro tip: Track your applications in a spreadsheet (Excel), noting companies, responses, and CV versions used. This simple practice helps manage your job search effectively and professionally, and you will avoid running the risk of applying to the same company (at least in a short space of time). Tracking is gold.
 
