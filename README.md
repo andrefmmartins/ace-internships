@@ -1,4 +1,4 @@
-_Created on: 04 April 2025 ---- Last Update on: 06 April 2025_
+_Created on: 04 April 2025 ---- Last Update on: 08 April 2025_
 
 ## What should you pay attention to when looking for an internship?
 
@@ -137,6 +137,7 @@ Pro tip: Track your applications in a spreadsheet (Excel), noting companies, res
 ✅	Build resilience through self-awareness
 
 ## Platforms to search for internships and/or junior positions in Europe:
+-	[AIESEC](aiesec.org/global-talent) : This is a platform beyond traditional Internships. AIESEC opens doors to global opportunities through their non-profit platform. While they're known for paid professional internships, they also offer enriching volunteer and teaching experiences worldwide. A Personal Story: In 2019, I embarked on a volunteer journey at an animal shelter in Giza, Egypt. The process? Just one casual interview with an AIESEC MIU volunteer in Cairo. What seemed like a simple volunteering opportunity became one of life's most profound experiences. Here's the twist: Today, I manage tech recruitment for Jumia in Egypt - life has a fascinating way of coming full circle! Look at the big picture. Your early career choices don't need to follow a conventional path. Whether it's a paid internship or a volunteer position, each experience shapes your journey uniquely. The key is aligning opportunities with your personal goals and growth aspirations. There's no one-size-fits-all approach to building your career. Set your goals, explore diverse opportunities, and take that first step. Sometimes, the most unexpected paths lead to the most rewarding destinations.
 -	[Erasmusintern](https://erasmusintern.org/) - ErasmusIntern is 100% free for students and graduates! As part of the Erasmus Student Network, the platform provides free access to internship opportunities across Europe. You can create your profile, search, and apply for positions without any costs.
 -	[Eurodesk](https://programmes.eurodesk.eu/internships) - Eurodesk is a trustworthy platform backed by the European Union. It's an excellent resource for finding legitimate internships, especially in EU institutions and Brussels-based organizations. Unlike many international program sites, opportunities listed here are typically direct placements without program fees.
 -	[Glassdoor](https://www.glassdoor.com/Students/index.htm) - Glassdoor is free for job seekers! While basic access is immediate, you can unlock more detailed company insights by contributing your own reviews or salary information. The platform uses a 'give-to-get' model to maintain updated content while keeping it free for applicants.
