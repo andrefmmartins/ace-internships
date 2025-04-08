@@ -63,6 +63,14 @@ Yes! Same response as the one above. These experiences showcase initiative, soci
 
 Remember: Every experience shapes your professional identity. Part-time jobs and volunteering demonstrate soft skills, character, and real-world experience that technical skills alone cannot convey.
 
+_Udemy/Coursera/any other platform’s courses:_
+
+When transitioning into tech (or any new field), demonstrating foundational knowledge is crucial. Online courses from platforms like Udemy or Coursera can serve as valuable proof of your commitment and basic understanding.
+
+Imagine you are making a career transition into tech (or any other field). It is important to mention this on your CV. You will not have much success applying for an internship in Software Engineering if your background is in HR and you do not have any tech courses listed on your CV. Many people forget this – an internship is not a training school - it's an accelerated professional development opportunity. You're expected to arrive with fundamental knowledge and use the internship to build proficiency and confidence.
+
+CV Presentation: Create a dedicated 'Professional Development' section under your ‘Academic Experience’. Include relevant, substantial courses that demonstrate your commitment to the field. Be selective - focus on comprehensive courses rather than brief tutorials. Some companies may not consider a huge list of courses and may not take 45-minute or even shorter courses very seriously
+
 ## What about a motivation letter?
 
 No – that’s my only answer. Skip them - unless specifically requested.
