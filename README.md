@@ -1,4 +1,4 @@
-_Created on: 04 April 2025 ---- Last Update on: 08 April 2025_
+_Created on: 04 April 2025 ---- Last Update on: 14 April 2025_
 
 ## What should you pay attention to when looking for an internship?
 
@@ -70,6 +70,18 @@ Especially when transitioning into tech (or any new field), demonstrating founda
 Imagine you are making a career transition into tech (or any other field). It is important to mention this on your CV. You will not have much success applying for an internship in Software Engineering if your background is in HR and you do not have any tech courses (e.g., programming) listed on your CV. Many people forget this – an internship is not a training school - it's an accelerated professional development opportunity. You're expected to arrive with fundamental knowledge and use the internship to build proficiency and confidence.
 
 CV Presentation: Create a dedicated 'Professional Development' section under your ‘Academic Experience’. Include relevant, substantial courses that demonstrate your commitment to the field. Be selective - focus on comprehensive courses rather than brief tutorials. Some companies may not consider a huge list of courses and may not take 45-minute or even shorter courses very seriously.
+
+## Career Direction in Early-Stage Interviews | What if I don’t know which areas to pick?
+
+While it's perfectly natural to feel uncertain about your career path when finishing university, expressing this uncertainty during interviews can impact your application. From my experience speaking at FEP, FEUP, and ISEP, I've observed how this approach can affect interview outcomes.
+
+Instead, consider this strategy: Identify and articulate 2-3 areas that genuinely interest you. This approach serves multiple purposes:
+
+First, it helps interviewers envision where you might fit within their organization. Second, it demonstrates thoughtful consideration of your career path, even if you're still exploring options. Most importantly, it shows passion, initiative and introspection about your potential career path - qualities that significantly enhance your application.
+
+For example, rather than saying you're unsure, you might express interest in data analytics, project management, or software development, based on your coursework or personal projects. This focused approach, while maintaining flexibility, presents you as a candidate with direction and enthusiasm.
+
+Remember: You're not committing to a lifetime path; you're showing that you've given serious thought to your professional future.
 
 ## A common mistake when switching careers
 
