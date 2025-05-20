@@ -207,8 +207,9 @@ Looking Ahead: Remember, today's job market is competitive, but that shouldn't d
 
 **The Path Forward**
 
-No matter which direction your career takes you, remember this: Success isn't measured by your starting point - it's defined by your willingness to learn, adapt, and persist. Your professional journey is uniquely yours, and that's exactly how it should be. Yes, the market is competitive, but never forget - YOU are worth it.
+Keep talking and asking people who have more knowledge than you, networking is really important and often overlooked.
 
+No matter which direction your career takes you, remember this: Success isn't measured by your starting point - it's defined by your willingness to learn, adapt, and persist. Your professional journey is uniquely yours, and that's exactly how it should be. Yes, the market is competitive, but never forget - YOU are worth it.
 
 _For ongoing insights into tech recruitment and hiring trends, connect with me on LinkedIn. I regularly share industry perspectives and participate in academic discussions, like my recent presentation on tech hiring practices to HR Master's students at ISCAP, Porto (March 2025)._
 <p align="center">
